@@ -5,6 +5,7 @@ Assume that each input would have exactly one solution and you cannot use the sa
 Print the indices in increasing order.
 
 Input format
+
 First line contains an Integer N that represents the number of elements in the array.
 
 Second line contains N space separated integers, which are members of the array.
